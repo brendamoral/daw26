@@ -1,0 +1,18 @@
+body{
+background-color: lightblue;
+}
+title{
+color:#FFCC00;
+text-align: center;
+border: dashed;
+}
+h1{
+color:#FFFF99;
+font-family: Comic Sans MS;
+border:8px solid white;
+}
+p{
+color: black;
+font-family: Comic Sans MS;
+text-align: left;
+}
